@@ -1,0 +1,25 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 70px;
+    background-color: skyblue;
+    font-weight: 600;
+  }
+  
+  .nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  .nav ul li {
+    margin: 1rem;
+    list-style: none;
+  }
+  
+  .nav ul li a {
+    background-color: lightgrey;
+    border-top: 10px;
+    
+  }
